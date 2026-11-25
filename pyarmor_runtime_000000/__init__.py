@@ -1,1 +1,2 @@
-ok
+#PROGRAMMER_MUNAM_JUTT_INSTA_mun_amxjutt
+from .pyarmor_runtime import __pyarmor__
